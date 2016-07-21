@@ -1,0 +1,6 @@
+{
+    "name": "cyve/new-html",
+    "dependencies":{
+        "jquery": "jquery#latest"
+    }
+}
